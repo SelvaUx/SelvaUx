@@ -109,3 +109,11 @@ I’m designing **tools, machines, and realities** that help humanity and expand
 
 **Let’s build the impossible — together.**  
 👾 🧬 🛠️ 🚀
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
