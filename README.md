@@ -63,9 +63,8 @@ I’m designing **tools, machines, and realities** that help humanity and expand
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selvaux&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvaux&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=selvaux&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvaux&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
 ---
