@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝╚══════╝
 ```
 
-<div align="center">
+
 
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Francis+%E2%9A%A1;AI+Architect+%7C+ECE+Engineer+%7C+Empire+Builder;Building+the+future%2C+one+commit+at+a+time...;From+Tamil+Nadu+%E2%86%92+To+The+World+%F0%9F%8C%8D" alt="Typing SVG" />
