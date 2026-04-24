@@ -192,20 +192,6 @@ I’m designing **tools, machines, and realities** that help humanity and expand
 
 </div>
 
----
-
-## 🌍 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Selva_Pandi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selvaux)
-[![Instagram](https://img.shields.io/badge/Instagram-selva.ux-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/selva.ux)
-[![GitHub](https://img.shields.io/badge/GitHub-SelvaUx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SelvaUx)
-[![Email](https://img.shields.io/badge/Email-selva.ux%40yahoo.com-D44638?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:selva.ux@yahoo.com)
-
-</div>
-
----
 
 ### 🔮 The Future I’m Building
 
