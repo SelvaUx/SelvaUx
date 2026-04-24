@@ -1,15 +1,8 @@
 <div align="center">
 
-```
-███████╗██████╗  █████╗ ███╗   ██╗ ██████╗██╗███████╗
-██╔════╝██╔══██╗██╔══██╗████╗  ██║██╔════╝██║██╔════╝
-█████╗  ██████╔╝███████║██╔██╗ ██║██║     ██║███████╗
-██╔══╝  ██╔══██╗██╔══██║██║╚██╗██║██║     ██║╚════██║
-██║     ██║  ██║██║  ██║██║ ╚████║╚██████╗██║███████║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d6b,100:00d4ff&height=200&section=header&text=Selva.Ux&fontSize=80&fontColor=00d4ff&fontAlignY=38&desc=AI%20Architect%20%C2%B7%20ECE%20Engineer%20%C2%B7%20Empire%20Builder&descAlignY=60&descColor=c9d1d9&animation=fadeIn" width="100%"/>
 
-<!-- Animated Typing Header -->
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Francis+%E2%9A%A1;AI+Architect+%7C+ECE+Engineer+%7C+Empire+Builder;Building+the+future%2C+one+commit+at+a+time...;From+Tamil+Nadu+%E2%86%92+To+The+World+%F0%9F%8C%8D" alt="Typing SVG" />
 
 
@@ -53,27 +46,47 @@
 - 🛠 Goal: **Build everything I need on my own.**
 - ⚡ Fun Fact: *I’m building my own Iron Man world before I get my driver’s license.*
 
-- 📫 Reach me at: **selva.ux@yahoo.com**
 
 ---
 
-## 🚀 Flagship Project
+## 🧠 The Story So Far
 
-### 🤖 SaraAI — Personal AI Assistant
-> *My most ambitious build. An offline-first, voice-controlled AI assistant for Android & Desktop.*
+I'm **Selva Pandi** — **Selva.Ux** online. An ECE student who decided that waiting to be qualified was a worse plan than just *building the thing.*
 
-- 🎙️ **Wake Word Detection** powered by **Porcupine** (`Hey Sara`)
-- 🗣️ **Multilingual Voice Interface** — Tamil & English via **Vosk** (fully offline)
-- 📱 **App Control** — launch apps, set alarms, send WhatsApp messages
-- 📧 **Email Integration** — read, compose, and send emails by voice
-- 👁️ **OCR Engine** — extract text from camera or images in real-time
-- 🧠 **Contextual Memory** — remembers conversations and adapts over time
-- 🤖 **Local LLM Backend** via **LM Studio** — zero cloud dependency
-- 🛠️ Built with: `Python` · `Kivy` · `Vosk` · `Porcupine` · `LM Studio`
+So I built an AI assistant. Then another version. Then seven. Then I built a custom OS for it. Then a fiber fault detection engine. Then an IoT aquaculture platform. Then a portfolio site with a mini-lab inside it. The list doesn't stop because the curiosity doesn't stop.
 
-[![SaraAI Repo](https://img.shields.io/badge/GitHub-SaraAI-00d4ff?style=for-the-badge&logo=github)](https://github.com/SelvaUx/SaraAI)
+My engineering philosophy is simple: **offline first, privacy always, real hardware required.** I don't trust solutions that work only in ideal conditions. I build for the messy, low-bandwidth, real world — where people need technology that actually functions.
+
+Beyond the code and circuits, I find the same obsessive attention to detail bleeding into everything — anime arcs that land perfectly, physics thought experiments that keep me up at night, and occasionally, a thought about someone who quietly matters — the kind of inspiration you don't always name, but always feel in the quality of what you make. ✨
+
+- 🌐 **Portfolio + Lab** → [selvaux.in](https://selvaux.in)
+- 📫 **Email** → selva.ux@yahoo.com
+- 💡 **Specialization** → Offline AI · Edge Computing · Embedded Systems · Custom OS
 
 ---
+
+## 🚀 Flagship Projects
+
+---
+
+### 🤖 SaraAI — 7-Version Intelligent Assistant Evolution
+
+> *From a basic Python voice bot to a full agentic CLI intelligence. 7 versions. One relentless vision.*
+
+```
+Evolution Timeline:
+─────────────────────────────────────────────────────────────────────────
+v1-basic (2023)   →  Basic TTS + Wikipedia + App Launcher (Python)
+    └─► v2.0      →  Wake Word "Hey Sara" + Continuous Listening
+          └─► v2.0-enhanced  →  Code Gen + Biometrics (OpenCV + MediaPipe)
+                └─► v3.0     →  Local AI + Vosk Offline STT + LM Studio
+                      └─► v4.0      →  Full C# Rewrite + .NET 6 + 50+ Commands
+                            └─► v5.0       →  6-Language Architecture (Python · C++ · Java · C# · Rust · JS)
+                                  └─► v6.0-offline  →  Electron Desktop App + Modern UI
+                                        └─► SaraAI Max  →  Agentic CLI + Ollama + 12 Tools ✦ NOW
+─────────────────────────────────────────────────────────────────────────
+```
+
 ### 👑 Empire Vision
 
 🚩 I’m not just coding apps —  
@@ -98,30 +111,33 @@ I’m designing **tools, machines, and realities** that help humanity and expand
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-.NET_6-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI / Machine Learning
+### 🤖 AI / ML / Deep Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TFLite Micro](https://img.shields.io/badge/TFLite_Micro-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TFLite Micro](https://img.shields.io/badge/TFLite_Micro-TinyML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-### 🎙️ Voice & NLP
+### 🎙️ Voice / NLP / Local AI
 
 ![Vosk](https://img.shields.io/badge/Vosk-Offline_STT-00d4ff?style=for-the-badge)
 ![Porcupine](https://img.shields.io/badge/Porcupine-Wake_Word-ff6b35?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-ff6b35?style=for-the-badge)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-Local_LLM-8B5CF6?style=for-the-badge)
-![Piper TTS](https://img.shields.io/badge/Piper-Offline_TTS-green?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/Whisper-OpenAI_STT-412991?style=for-the-badge)
+![Piper](https://img.shields.io/badge/Piper-Offline_TTS-2ea44f?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper.cpp-Fast_STT-412991?style=for-the-badge)
 
 ### 📡 Embedded / IoT / Hardware
 
@@ -129,22 +145,28 @@ I’m designing **tools, machines, and realities** that help humanity and expand
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-![PCB Design](https://img.shields.io/badge/PCB_Design-KiCad-blue?style=for-the-badge)
-![RTL-SDR](https://img.shields.io/badge/RTL--SDR-GNU_Radio-orange?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-Protocol-3C5280?style=for-the-badge)
+![RTL-SDR](https://img.shields.io/badge/RTL--SDR-GNU_Radio-ff6b35?style=for-the-badge)
+![PCB](https://img.shields.io/badge/PCB_Design-KiCad-blue?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Gesture-00d4ff?style=for-the-badge)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-Desktop_Auto-3776AB?style=for-the-badge)
 
-### 🐧 OS / Platforms / Tools
+### 🖥️ Frameworks / Platforms / Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![Kivy](https://img.shields.io/badge/Kivy-UI_Framework-00B0D7?style=for-the-badge)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Kivy](https://img.shields.io/badge/Kivy-00B0D7?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_6-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
+
 
 ## 📊 GitHub Analytics
 
@@ -193,6 +215,32 @@ I’m designing **tools, machines, and realities** that help humanity and expand
 - 🪐 **Virtual World Engine** – Code your own simulated universe  
 - 💡 **Open Knowledge Hub** – Help others learn what I master  
 - 🤖 **Smart Home Empire** – Voice + AI + Automation  
+
+---
+
+## 💭 What Drives Me
+
+There's something I've learned about how great things get built — it's almost never pure logic. Behind every ambitious project, there's an emotion powering the engineer. A memory. A feeling. Sometimes as simple as wanting to prove something to yourself. Sometimes something quieter, warmer, harder to name.
+
+I build with that kind of energy. The kind that doesn't turn off at 10 PM. The kind that made me name my AI after a warmth I couldn't explain — and the kind that makes you go back and make something just a little better than it needed to be, because it matters to you in ways that go beyond function or feature lists.
+
+The best systems I've built have always had something invisible in them — a quiet care in how they respond, a patience in how they learn. I think that's what separates *code that works* from *code that feels right.*
+
+*Not everything worth building can be written in code. But the best builders know both languages.* 🌙
+
+---
+
+## 🌍 Connect with Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-selvaux.in-00d4ff?style=for-the-badge&logo=safari&logoColor=white)](https://selvaux.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Selva_Pandi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selvaux)
+[![Instagram](https://img.shields.io/badge/Instagram-selva.ux-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/selva.ux)
+[![GitHub](https://img.shields.io/badge/GitHub-SelvaUx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SelvaUx)
+[![Email](https://img.shields.io/badge/Email-selva.ux%40yahoo.com-D44638?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:selva.ux@yahoo.com)
+
+</div>
 
 ---
 
