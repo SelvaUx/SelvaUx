@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d6b,100:00d4ff&height=200&section=header&text=Selva.Ux&fontSize=80&fontColor=00d4ff&fontAlignY=38&desc=AI%20Architect%20%C2%B7%20ECE%20Engineer%20%C2%B7%20Empire%20Builder&descAlignY=60&descColor=c9d1d9&animation=fadeIn" width="100%"/>
 
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Francis+%E2%9A%A1;AI+Architect+%7C+ECE+Engineer+%7C+Empire+Builder;Building+the+future%2C+one+commit+at+a+time...;From+Tamil+Nadu+%E2%86%92+To+The+World+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Francis+%F0%9F%9A%80;AI+Architect+%7C+ECE+Engineer+%7C+Empire+Builder;Building+the+future%2C+one+commit+at+a+time...;Love+made+me+soft+%E2%9D%A4%EF%B8%8F+Life+made+me+dangerous+%F0%9F%94%A5;Calm+mind+%E2%9A%A1+Criminal+thoughts;I+don%E2%80%99t+chase+%E2%80%94+I+build+%F0%9F%9A%80;From+Tamil+Nadu+%E2%86%92+To+The+World+%F0%9F%8C%8D" alt="Typing SVG" />
 
 
 ### `ECE Engineer` · `AI Architect` · `IoT Builder` · `OS Creator` · `Empire in Progress`
